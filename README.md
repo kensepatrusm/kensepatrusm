@@ -20,5 +20,3 @@
 - [LinkedIn] (https://www.linkedin.com/in/kensepatrusm/)
 - [Email] (kensepatrusm@gmail.com)
 - [Twitter] (https://twitter.com/DrKenstein)
-
-
