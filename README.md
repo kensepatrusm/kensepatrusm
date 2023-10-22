@@ -21,6 +21,4 @@
 - [Email] (kensepatrusm@gmail.com)
 - [Twitter] (https://twitter.com/DrKenstein)
 
-<p><img align="left" src="https://www.linkedin.com/in/kensepatrusm/" alt="LinkedIn" /></p>
-
 
