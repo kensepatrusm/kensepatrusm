@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, 👋 I'm Kense Patrusm</h1>
-<h3 align="center">A passionate Fullstack Developer from Lagos, Nigeria</h3>
+<h3 align="center">A passionate Fullstack Developer</h3>
 
 ## About Me
 - 🔭 I’m currently working on **a Fullstack E-Commerce Website**
