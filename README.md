@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Kense Patrusm</h1>
+<h1 align="center">I'm Kense Patrusm</h1>
 <h3 align="center">A passionate Fullstack Developer from Lagos, Nigeria</h3>
 
 ## About Me
@@ -20,4 +20,7 @@
 - [LinkedIn] (https://www.linkedin.com/in/kensepatrusm/)
 - [Email] (kensepatrusm@gmail.com)
 - [Twitter] (https://twitter.com/DrKenstein)
+
+<p><img align="left" src="https://www.linkedin.com/in/kensepatrusm/" alt="LinkedIn" /></p>
+
 
