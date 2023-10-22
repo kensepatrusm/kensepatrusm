@@ -5,8 +5,8 @@
 
 ## About Me
 - 🔭 I’m currently working on **a Fullstack E-Commerce Website**
-- 🌱 I’m currently learning **Flutter**
 - 👯 I’m open to any related **Internship/Job Placements**
+- 🌱 I’m currently learning **Flutter**
 - ⚡ Fun fact: **I am a Lawyer**
 
 ## Technology Stacks
