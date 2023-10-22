@@ -13,9 +13,9 @@
 
 - 👯 I’m open to any related **Internship/Job Placements**
 
-- 📫 How to reach me **kensepatrusm@gmail.com**
+- 📫 How to reach me: **kensepatrusm@gmail.com**
 
-- ⚡ Fun fact **I am a Lawyer**
+- ⚡ Fun fact: **I am a Lawyer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
